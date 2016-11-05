@@ -12,7 +12,7 @@
 
 eureka:
     instance:
-        hostname: gentle-scrubland-22045.herokuapp.com
+        hostname: fathomless-ravine-92370.herokuapp.com
         non-secure-port: 80
         prefer-ip-address: false
     client:
