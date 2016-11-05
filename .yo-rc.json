@@ -1,0 +1,30 @@
+{
+  "generator-jhipster": {
+    "jhipsterVersion": "3.10.0",
+    "baseName": "mage",
+    "packageName": "com.barnes.app",
+    "packageFolder": "com/barnes/app",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": true,
+    "rememberMeKey": "1411edb4dffc5408a21ce4f8df889e35fdc895c0",
+    "useSass": true,
+    "applicationType": "monolith",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false,
+    "serviceDiscoveryType": false,
+    "herokuAppName": "gentle-scrubland-22045"
+  }
+}
